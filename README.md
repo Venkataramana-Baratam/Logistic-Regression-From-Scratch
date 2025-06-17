@@ -1,9 +1,6 @@
-# Logistic-Regression-From-Scratch
-A project that implements Logistic Regression from scratch using Python.
+
 # 🔐 Logistic Regression from Scratch
-
-This notebook builds a logistic regression classifier from scratch using Python and NumPy.
-
+A project that builds a Logistic Regression classifier from scratch using Python and NumPy without using external libraries like scikit-learn.
 ## Features
 - Binary classification
 - Sigmoid activation
